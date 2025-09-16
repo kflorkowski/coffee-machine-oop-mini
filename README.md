@@ -7,7 +7,7 @@ This project does not require any external dependencies, it runs entirely with P
 1. Make sure you have Python 3.6 or higher installed.
 2. Download CoffeMachine project.
 3. Open a terminal and navigate to the project folder.
-4. Run the script: `python main.py`
+4. Run the script: `python .\coffeemachine\main.py`
 
 ## Usage guide
 After starting the script, the machine will display: 
